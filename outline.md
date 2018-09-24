@@ -12,7 +12,7 @@
 
 ## 3) Project - Building a Classroom Schedule
 
-## 4) Overview of Metaheuristics and Gradient Descent 
+## 4) Metaheuristics and Gradient Descent 
 - Simulated Annealing
 - Understanding Gradient Descent
 - Doing linear regression with gradient descent

@@ -19,4 +19,5 @@
 - Simulated Annealing
 - Understanding Gradient Descent
 - Doing linear regression with gradient descent
+- How neural networks use gradient descent
 - EXERCISE: Doing a linear regression 

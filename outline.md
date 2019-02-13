@@ -27,9 +27,10 @@
 - Using libraries for linear/integer/mixed programming 
 - EXERCISE: Finding the right constraints
 
-## 5) Gradient Descent (30 minutes)
+## 5) Gradient Descent (40 minutes)
 - Understanding Gradient Descent
 - Doing linear regression with gradient descent
 - How neural networks use gradient descent
 - Types of gradient descent 
 - EXERCISE: Choosing the right methodology
+- POST-CLASS HOMEWORK

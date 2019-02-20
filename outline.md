@@ -22,6 +22,7 @@
 - EXERCISE: Choose the right heuristic
     - Knapsack: which items should I grab first? 
     - Scheduling: which employees should I schedule first? 
+    - Scheduling: upon scheduling this employee, what can I prune? 
     
 ## BREAK (10 minutes) 
 

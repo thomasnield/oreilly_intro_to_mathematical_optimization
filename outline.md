@@ -6,9 +6,13 @@
 
 ## 2) Metaheuristics (30 minutes)
 - Simulated Annealing with the Traveling Salesman Problem explained
-- Doing a linear regression with simulated annealing
+- Doing a linear regression with local search/simulated annealing
 - Other metaheuristics algorithms
-- EXERCISE: True/false and multiple choice questions
+- EXERCISE: Multiple choice, Which hyperparameters need to be fixed? 
+    - Too greedy temperature schedule
+    - Too random temperature schedule 
+    - Not enough iterations
+    - Not enough move variety
 
 ## 3) Tree Search Algorithms (40 minutes) 
 - Solving a Sudoku
@@ -16,7 +20,9 @@
 - Knapsack Problem (Choosing which shipments to put in container)
 - Branch-and-bound Intuition
 - EXERCISE: Choose the right heuristic
-
+    - Knapsack: which items should I grab first? 
+    - Scheduling: which employees should I schedule first? 
+    
 ## BREAK (10 minutes) 
 
 ## 4) Linear/Integer/Mixed Programming (40 minutes)
@@ -30,7 +36,13 @@
 ## 5) Gradient Descent (40 minutes)
 - Understanding Gradient Descent
 - Doing linear regression with gradient descent
+- Partial derivatives 
 - How neural networks use gradient descent
 - Types of gradient descent 
-- EXERCISE: Choosing the right methodology
+- EXERCISE
+    - Partial derivatives
+    - Learning rate too big
+    - Learning rate too small 
+    - Machine learning versus optimization - which to use? 
+    
 - POST-CLASS HOMEWORK

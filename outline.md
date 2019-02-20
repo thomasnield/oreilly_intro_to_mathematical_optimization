@@ -19,6 +19,7 @@
 - Creating a schedule under constraints
 - Knapsack Problem (Choosing which shipments to put in container)
 - Branch-and-bound Intuition
+- Mixing search algorithms with simulations
 - EXERCISE: Choose the right heuristic
     - Knapsack: which items should I grab first? 
     - Scheduling: which employees should I schedule first? 
@@ -32,6 +33,9 @@
 - Manufacturing problem
 - Continuous Scheduling Problem
 - Using libraries for linear/integer/mixed programming 
+    * Python - PyOmo/PuLp
+    * Java - ojAlgo
+   
 - EXERCISE: Finding the right constraints
 
 ## 5) Gradient Descent (40 minutes)

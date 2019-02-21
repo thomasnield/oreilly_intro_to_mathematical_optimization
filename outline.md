@@ -6,8 +6,8 @@
 
 ## 2) Metaheuristics (30 minutes)
 - Simulated Annealing with the Traveling Salesman Problem explained
-- Doing a linear regression with local search
-- Doing a linear regression with two objectives
+- Linear regression with local search
+- Linear quantile regression with local search
 - Other metaheuristics algorithms
 - EXERCISE: Multiple choice, Which hyperparameters need to be fixed? 
     - Too greedy temperature schedule

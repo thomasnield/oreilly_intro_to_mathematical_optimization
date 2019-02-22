@@ -18,11 +18,11 @@
 ## 3) Tree Search Algorithms (40 minutes) 
 - Solving a Sudoku
 - Creating a schedule under constraints
-- Knapsack Problem (Choosing which shipments to put in container)
-- Branch-and-bound Intuition
+- Knapsack Problem/Branch-and-bound Intuition 
 - Mixing search algorithms with simulations
-- EXERCISE: Choose the right heuristic
+- EXERCISE: Choosing the right heuristics
     - Knapsack: which items should I grab first? 
+    - Knapsack: what's the relaxation value? 
     - Scheduling: which employees should I schedule first? 
     - Scheduling: upon scheduling this employee, what can I prune? 
     
@@ -40,7 +40,8 @@
    
 - EXERCISES
     - Convex/Not Convex?
-    - Choosing the constraint expressions 
+    - Choosing the right objective expression
+    - Choosing the right constraints
 
 ## 5) Gradient Descent (40 minutes)
 - Understanding Gradient Descent

@@ -3,15 +3,15 @@
 ## 1) Intro (10 minutes)
 - The Traveling Saleman Problem
 - What to expect in this course
+- Machine learning vs optimization 
 
 ## 2) Metaheuristics (30 minutes)
-- Simulated Annealing with the Traveling Salesman Problem explained
-- Linear regression with local search
-- Linear quantile regression with local search
+- Traveling Salesman Problem explained
+- Linear regression with hill climbing/simulated annealing
+- Linear quantile regression with hill climbing/simulated annealing
 - Other metaheuristics algorithms
 - EXERCISE: Multiple choice, Which hyperparameters need to be fixed? 
-    - Too greedy temperature schedule
-    - Too random temperature schedule 
+    - Too greedy/random temperature schedule
     - Not enough iterations
     - Not enough move variety
 
@@ -30,6 +30,7 @@
 
 ## 4) Linear/Integer/Mixed Programming (40 minutes)
 - Basic Convex Optimization Intuition
+- Linear Programming
 - Blending Problem
 - Manufacturing problem
 - Continuous Scheduling Problem
@@ -37,7 +38,9 @@
     * Python - PyOmo/PuLp
     * Java - ojAlgo
    
-- EXERCISE: Finding the right constraints
+- EXERCISES
+    - Convex/Not Convex?
+    - Choosing the constraint expressions 
 
 ## 5) Gradient Descent (40 minutes)
 - Understanding Gradient Descent
@@ -46,9 +49,7 @@
 - How neural networks use gradient descent
 - Types of gradient descent 
 - EXERCISE
-    - Partial derivatives
-    - Learning rate too big
-    - Learning rate too small 
+    - Learning rate too big/small
     - Machine learning versus optimization - which to use? 
     
 - POST-CLASS HOMEWORK

@@ -10,7 +10,7 @@
 - Linear regression with hill climbing/simulated annealing
 - Linear quantile regression with hill climbing/simulated annealing
 - Other metaheuristics algorithms
-- EXERCISE: Multiple choice, Which hyperparameters need to be fixed? 
+- EXERCISE: Multiple choice, which hyperparameters need to be fixed? 
     - Too greedy/random temperature schedule
     - Not enough iterations
     - Not enough move variety

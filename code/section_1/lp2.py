@@ -1,5 +1,7 @@
 from pulp import *
 
+# GRAPH: https://www.desmos.com/calculator/uweens9qoa
+
 # declare your variables
 x = LpVariable("x", lowBound=0, cat=LpInteger)   # 0<=x
 y = LpVariable("y", lowBound=0, cat=LpInteger) # 0<=y

@@ -15,7 +15,9 @@
     - Not enough iterations
     - Not enough move variety
 
-## 3) Tree Search Algorithms (40 minutes) 
+## BREAK (10 minutes) 
+
+## 3) Tree Search Algorithms (30 minutes) 
 - Solving a Sudoku
 - Creating a schedule under constraints
 - Knapsack Problem/Branch-and-bound Intuition 
@@ -28,7 +30,7 @@
     
 ## BREAK (10 minutes) 
 
-## 4) Linear/Integer/Mixed Programming (40 minutes)
+## 4) Linear/Integer/Mixed Programming (30 minutes)
 - Basic Convex Optimization Intuition
 - Linear Programming
 - Blending Problem
@@ -42,8 +44,11 @@
     - Convex/Not Convex?
     - Choosing the right objective expression
     - Choosing the right constraints
+	
+## BREAK (10 minutes) 
 
-## 5) Gradient Descent (40 minutes)
+
+## 5) Gradient Descent (30 minutes)
 - Understanding Gradient Descent
 - Doing linear regression with gradient descent
 - Partial derivatives 

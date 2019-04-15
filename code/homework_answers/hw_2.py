@@ -1,9 +1,10 @@
 """
-The Sudoku Problem Formulation for the PuLP Modeller
+Solving the world's hardest Sudoku
 
-Adapted code from: https://pythonhosted.org/PuLP/CaseStudies/a_sudoku_problem.html
 Original Code Authors: Antony Phillips, Dr Stuart Mitcehll
 Adapted by Thomas Nield
+
+Adapted code from: https://pythonhosted.org/PuLP/CaseStudies/a_sudoku_problem.html
 """
 
 # Import PuLP modeler functions

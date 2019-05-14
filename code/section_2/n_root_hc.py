@@ -3,7 +3,7 @@ import numpy as np
 # Use hill climbing to estimate a fifth root
 
 value = 6.0
-fifth_root_candidate = value / 2.0
+fifth_root_candidate = value / 5.0
 
 for i in range(100000):
     adjust = np.random.standard_t(3, 1)[0]

@@ -1,5 +1,6 @@
 import numpy as np
 
+# Use hill climbing to estimate a square root
 
 value = 11.0
 sqrt_candidate = value / 2.0

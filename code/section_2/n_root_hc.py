@@ -1,5 +1,6 @@
 import numpy as np
 
+# Use hill climbing to estimate a fifth root
 
 value = 6.0
 fifth_root_candidate = value / 2.0

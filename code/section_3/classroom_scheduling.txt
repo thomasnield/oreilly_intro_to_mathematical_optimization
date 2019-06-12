@@ -1,0 +1,2 @@
+  Classroom scheduling demo code: 
+  https://github.com/thomasnield/optimized-scheduling-demo/

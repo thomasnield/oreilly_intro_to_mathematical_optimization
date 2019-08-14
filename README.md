@@ -1,3 +1,6 @@
+
+![](https://cdn.oreillystatic.com/images/live-online-training/0636920269793-1121x260.jpg) 
+
 # O'Reilly Intro to Mathematical Optimization
 
 Materials for the O'Reilly online training "Intro to Mathematical Optimization"

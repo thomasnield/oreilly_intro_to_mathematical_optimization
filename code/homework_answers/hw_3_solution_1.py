@@ -30,7 +30,7 @@ best_loss = 10000000000000.0 # Initialize with a really large value
 
 for i in range(epochs):
 
-	#Randomly adjust "a" and "b" 
+    #Randomly adjust "a" and "b" 
     a_adjust = normalvariate(0,1) # can also use t-distribution from NumPy, SciPy
     b_adjust = normalvariate(0,1) # can also use t-distribution from NumPy, SciPy
     a += a_adjust

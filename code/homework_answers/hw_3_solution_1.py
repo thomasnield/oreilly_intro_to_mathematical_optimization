@@ -30,16 +30,16 @@ best_loss = 10000000000000.0 # Initialize with a really large value
 
 for i in range(epochs):
 
-	#Randomly adjust "a" and "b" 
+    #Randomly adjust "a" and "b" 
     a_adjust = normalvariate(0,1) # can also use t-distribution from NumPy, SciPy
     b_adjust = normalvariate(0,1) # can also use t-distribution from NumPy, SciPy
     a += a_adjust
     b += b_adjust
 
-	# Calculate loss, which is total mean squared error
+    # Calculate loss, which is total mean squared error
     new_loss =  (1/n) * sum((Y - (a * X**2 + b))**2)  # The current predicted value of Y
 
-	# If loss has improved, keep new values. Otherwise revert. 
+    # If loss has improved, keep new values. Otherwise revert. 
     if new_loss < best_loss:
         best_loss = new_loss
     else:

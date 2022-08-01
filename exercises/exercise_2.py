@@ -40,6 +40,3 @@ for i in range(iterations):
     b -= ? * D_b
 
 print("y = {0}x + {1}".format(m, b))
-
-# Submits the answer, please don't modify!
-submit(2, "{},{}".format(round(m,3),round(b,3)))

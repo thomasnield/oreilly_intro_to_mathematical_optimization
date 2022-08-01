@@ -9,7 +9,6 @@ The slopes with respect to `m` and `b` against the loss function
 
 Replace the ?'s and execute the script.
 """
-from post_answer import submit
 import pandas as pd
 
 # Import points from CSV
@@ -41,6 +40,3 @@ for i in range(iterations):
     b -= L * D_b
 
 print("y = {0}x + {1}".format(m, b))
-
-# Submits the answer, please don't modify!
-submit(2, "{},{}".format(round(m,3),round(b,3)))

@@ -41,7 +41,7 @@ for i in range(epochs):
     # Calculate loss, which is total sum squared error
     new_loss = 0.0
     for p in points:
-        new_loss += (?- (m * p.x + b)) ** ?
+        new_loss += (p.y- (m * p.x + b)) ** 2
 
     # If loss has improved, keep new values. Otherwise revert.
     if new_loss < best_loss:

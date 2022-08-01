@@ -9,7 +9,6 @@ The slopes with respect to `m` and `b` against the loss function
 
 Replace the ?'s and execute the script.
 """
-from post_answer import submit
 import pandas as pd
 
 # Import points from CSV

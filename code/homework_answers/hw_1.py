@@ -16,7 +16,7 @@ prob += 32 <= 13*x + 14*y
 prob += 5 <= 5*x + 2*y
 
 # weight
-prob += 4 <= x + y
+prob += 4 >= x + y
 
 # defines the objective function to maximize
 prob += .30 * x + .40 * y

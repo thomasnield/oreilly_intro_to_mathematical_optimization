@@ -13,7 +13,7 @@ prob = LpProblem("Guinea Pig Food Optimization", LpMinimize)
 # fat, carbs, and protein
 prob += 25 <= 6*x + 11*y
 prob += 32 <= 13*x + 14*y
-prob += 5 <= 5*x + 2*y
+prob += 5 <= 3*x + 2*y
 
 # weight
 prob += 4 <= x + y

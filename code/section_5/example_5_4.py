@@ -34,3 +34,10 @@ for i in range(epochs):
         print(i, m, b)
 
 print(m, b)
+
+import matplotlib.pyplot as plt
+
+# show in chart
+plt.plot(X, Y, 'o') # scatterplot
+plt.plot(X, m*X+b) # line
+plt.show()

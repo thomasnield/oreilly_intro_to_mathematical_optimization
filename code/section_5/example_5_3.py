@@ -22,7 +22,7 @@ for i in range(epochs):
     D_b = (-2 / n) * sum(Y - Y_pred)  # d/dc derivative of loss function
     m = m - L * D_m  # Update m
     b = b - L * D_b  # Update b
-
+    if i % 10000 == 0:
+        print(f"f(x) = {m}x + {b}")
 
 print(m, b) # 1.786000956883716 -16.422581112886167
-
